@@ -1,0 +1,1 @@
+DECLARE courier INT DEFAULT 0;
